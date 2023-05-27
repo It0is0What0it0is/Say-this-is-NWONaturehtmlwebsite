@@ -1,0 +1,185 @@
+    body {
+            background-image: url("Lake.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+
+      no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+        }
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+}
+
+header {
+  background-color: transparent;
+  color: green;
+  padding: 20px;
+  text-align: center;
+}
+
+a {
+  color: darkslategrey;
+  text-decoration: none;
+}
+
+.profile-section {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+input[type="text"], textarea {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+textarea {
+  height: 150px;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+ 
+        .Que1 {
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 30%;
+            height: auto;
+          }
+header {
+  background-color: transparent;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ 
+h1{
+  color: green;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  color: transparent;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav li a {
+  color: green;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  margin: 20px;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 34px;
+  font-weight: bold;
+  color: white;
+
+}
+
+h3{
+color: white;
+}
+____________________________________________________________________________________________________________________________________________________________
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery img {
+  width: 300px;
+  height: 200px;
+  margin: 10px;
+  object-fit: cover;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.input[type="text"],
+.input[type="email"],
+.textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.navbar a {
+  color: transparent;
+}
+
+  .navbar {
+  background-color: transparent;
+  overflow: hidden;
+  text color: transparent;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: transparent;
+
+}
+
+.navbar li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.navbar li a {
+  display: block;
+  color: transparent;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.navbar li a:hover {
+  background-color: transparent;
+  color: lightblue;
+}
+
