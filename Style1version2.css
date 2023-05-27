@@ -1,5 +1,5 @@
     body {
-            background-image: url("Bdmnow.jpg");
+            background-image: url("Set.png");
             background-size: cover;
             background-repeat: no-repeat;
 
@@ -11,30 +11,6 @@
     }
         }
 
-
-.profile-section {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 20px;
-}
-
-label {
-  font-weight: bold;
-  margin-bottom: 5px;
-}
-
-input[type="text"], textarea {
-  padding: 10px;
-  font-size: 16px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  margin-bottom: 10px;
-  width: 100%;
-}
-
-textarea {
-  height: 150px;
-}
 
 
 body {
@@ -59,17 +35,12 @@ header {
   justify-content: space-between;
   align-items: center;
 }
- 
-h1{
-  color: green;
-}
 
 nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   display: flex;
-  color: transparent;
 }
 
 nav li {
@@ -93,12 +64,6 @@ section {
 h2 {
   font-size: 34px;
   font-weight: bold;
-  color: white;
-
-}
-
-h3{
-color: white;
 }
 ____________________________________________________________________________________________________________________________________________________________
 .gallery {
@@ -128,13 +93,13 @@ ________________________________________________________________________________
 }
 
 .navbar a {
-  color: transparent;
+  color: black;
 }
 
   .navbar {
-  background-color: transparent;
+  background-color: #333;
   overflow: hidden;
-  text color: transparent;
+  text color: black;
 }
 
 .navbar ul {
@@ -142,7 +107,6 @@ ________________________________________________________________________________
   margin: 0;
   padding: 0;
   text-align: center;
-  color: transparent;
 
 }
 
@@ -153,7 +117,7 @@ ________________________________________________________________________________
 
 .navbar li a {
   display: block;
-  color: transparent;
+  color: powderblue;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -161,7 +125,7 @@ ________________________________________________________________________________
 }
 
 .navbar li a:hover {
-  background-color: transparent;
-  color: lightblue;
+  background-color: #ddd;
+  color: black;
 }
 
